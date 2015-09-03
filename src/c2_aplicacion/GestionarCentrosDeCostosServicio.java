@@ -10,7 +10,7 @@ import c4_persistencia.GestorJDBC;
 import c4_persistencia.daoPostgreSQL.CentrosDeCostosDAOPostgre;
 import c4_persistencia.daoPostgreSQL.GestorJDBCPostgre;
 import java.util.List;
-
+ 
 /**
  *
  * @author EnriqueDavidJose
